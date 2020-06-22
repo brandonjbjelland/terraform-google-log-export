@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.1.0](https://www.github.com/terraform-google-modules/terraform-google-log-export/compare/v4.0.1...v4.1.0) (2020-06-22)
+
+
+### Features
+
+* Add support for BigQuery partitioned tables ([#55](https://www.github.com/terraform-google-modules/terraform-google-log-export/issues/55)) ([aa71cdb](https://www.github.com/terraform-google-modules/terraform-google-log-export/commit/aa71cdb7d88e1273123ff0364aec6d47e83691da))
+
 ### [4.0.1](https://www.github.com/terraform-google-modules/terraform-google-log-export/compare/v4.0.0...v4.0.1) (2020-04-03)
 
 
